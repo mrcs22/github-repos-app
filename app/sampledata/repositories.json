@@ -1,0 +1,364 @@
+{
+  "data": [
+  {
+    "id": 393159668,
+    "name": "api-pokedex",
+    "owner": {
+      "login": "mrcs22",
+      "avatar_url": "https://avatars.githubusercontent.com/u/75001586?v=4"
+    },
+    "stargazers_count": 0,
+    "language": "TypeScript",
+    "html_url": "https://github.com/mrcs22/api-pokedex",
+    "description": "This is an API where you can list, add and remove Pokémons from your list"
+  },
+  {
+    "id": 388622904,
+    "name": "API-Sing-me-a-Song",
+    "owner": {
+      "login": "mrcs22",
+      "avatar_url": "https://avatars.githubusercontent.com/u/75001586?v=4"
+    },
+    "stargazers_count": 0,
+    "language": "TypeScript",
+    "html_url": "https://github.com/mrcs22/API-Sing-me-a-Song",
+    "description": null
+  },
+  {
+    "id": 376159480,
+    "name": "bate-papo-uol-api",
+    "owner": {
+      "login": "mrcs22",
+      "avatar_url": "https://avatars.githubusercontent.com/u/75001586?v=4"
+    },
+    "stargazers_count": 0,
+    "language": "JavaScript",
+    "html_url": "https://github.com/mrcs22/bate-papo-uol-api",
+    "description": null
+  },
+  {
+    "id": 454053024,
+    "name": "bate-papo-uol-api_mongodb",
+    "owner": {
+      "login": "mrcs22",
+      "avatar_url": "https://avatars.githubusercontent.com/u/75001586?v=4"
+    },
+    "stargazers_count": 1,
+    "language": "JavaScript",
+    "html_url": "https://github.com/mrcs22/bate-papo-uol-api_mongodb",
+    "description": null
+  },
+  {
+    "id": 375505524,
+    "name": "blogium-backend",
+    "owner": {
+      "login": "mrcs22",
+      "avatar_url": "https://avatars.githubusercontent.com/u/75001586?v=4"
+    },
+    "stargazers_count": 0,
+    "language": "JavaScript",
+    "html_url": "https://github.com/mrcs22/blogium-backend",
+    "description": null
+  },
+  {
+    "id": 375531469,
+    "name": "blogium-frontend",
+    "owner": {
+      "login": "mrcs22",
+      "avatar_url": "https://avatars.githubusercontent.com/u/75001586?v=4"
+    },
+    "stargazers_count": 0,
+    "language": "JavaScript",
+    "html_url": "https://github.com/mrcs22/blogium-frontend",
+    "description": null
+  },
+  {
+    "id": 378281502,
+    "name": "boardcamp-api",
+    "owner": {
+      "login": "mrcs22",
+      "avatar_url": "https://avatars.githubusercontent.com/u/75001586?v=4"
+    },
+    "stargazers_count": 0,
+    "language": "JavaScript",
+    "html_url": "https://github.com/mrcs22/boardcamp-api",
+    "description": null
+  },
+  {
+    "id": 361290944,
+    "name": "BuzzQuiz",
+    "owner": {
+      "login": "mrcs22",
+      "avatar_url": "https://avatars.githubusercontent.com/u/75001586?v=4"
+    },
+    "stargazers_count": 0,
+    "language": null,
+    "html_url": "https://github.com/mrcs22/BuzzQuiz",
+    "description": "Projetão #01"
+  },
+  {
+    "id": 367487259,
+    "name": "Cineflex",
+    "owner": {
+      "login": "mrcs22",
+      "avatar_url": "https://avatars.githubusercontent.com/u/75001586?v=4"
+    },
+    "stargazers_count": 0,
+    "language": "JavaScript",
+    "html_url": "https://github.com/mrcs22/Cineflex",
+    "description": null
+  },
+  {
+    "id": 317664955,
+    "name": "Construindo-primeiro-jogo-de-naves",
+    "owner": {
+      "login": "mrcs22",
+      "avatar_url": "https://avatars.githubusercontent.com/u/75001586?v=4"
+    },
+    "stargazers_count": 0,
+    "language": "JavaScript",
+    "html_url": "https://github.com/mrcs22/Construindo-primeiro-jogo-de-naves",
+    "description": "Terceiro projeto guiado referente ao bootcamp Javascipt Game Developer oferecido na Digital Innovation One. "
+  },
+  {
+    "id": 319628408,
+    "name": "Desafio-IGTI-Bootcamp-Modulo-1",
+    "owner": {
+      "login": "mrcs22",
+      "avatar_url": "https://avatars.githubusercontent.com/u/75001586?v=4"
+    },
+    "stargazers_count": 0,
+    "language": "JavaScript",
+    "html_url": "https://github.com/mrcs22/Desafio-IGTI-Bootcamp-Modulo-1",
+    "description": "Desafio do módulo de Fundamentos (Módulo 1) no bootcamp Desenvolvedor Fullstack do IGTI "
+  },
+  {
+    "id": 317697799,
+    "name": "Desenvolvendo-um-jogo-da-memoria",
+    "owner": {
+      "login": "mrcs22",
+      "avatar_url": "https://avatars.githubusercontent.com/u/75001586?v=4"
+    },
+    "stargazers_count": 0,
+    "language": "HTML",
+    "html_url": "https://github.com/mrcs22/Desenvolvendo-um-jogo-da-memoria",
+    "description": "Sexto projeto guiado referente ao bootcamp Javascipt Game Developer oferecido na Digital Innovation One. "
+  },
+  {
+    "id": 482163350,
+    "name": "dio-desafio-dataproc",
+    "owner": {
+      "login": "mrcs22",
+      "avatar_url": "https://avatars.githubusercontent.com/u/75001586?v=4"
+    },
+    "stargazers_count": 0,
+    "language": "Python",
+    "html_url": "https://github.com/mrcs22/dio-desafio-dataproc",
+    "description": "Digital Innovation One - Desafio GCP Dataproc"
+  },
+  {
+    "id": 365079614,
+    "name": "foodcamp-react",
+    "owner": {
+      "login": "mrcs22",
+      "avatar_url": "https://avatars.githubusercontent.com/u/75001586?v=4"
+    },
+    "stargazers_count": 0,
+    "language": "JavaScript",
+    "html_url": "https://github.com/mrcs22/foodcamp-react",
+    "description": null
+  },
+  {
+    "id": 472054866,
+    "name": "genius-game-api",
+    "owner": {
+      "login": "mrcs22",
+      "avatar_url": "https://avatars.githubusercontent.com/u/75001586?v=4"
+    },
+    "stargazers_count": 1,
+    "language": "JavaScript",
+    "html_url": "https://github.com/mrcs22/genius-game-api",
+    "description": null
+  },
+  {
+    "id": 471532538,
+    "name": "green_screen_picture",
+    "owner": {
+      "login": "mrcs22",
+      "avatar_url": "https://avatars.githubusercontent.com/u/75001586?v=4"
+    },
+    "stargazers_count": 1,
+    "language": "Python",
+    "html_url": "https://github.com/mrcs22/green_screen_picture",
+    "description": "The package green_screen_picture is used to merge background to green screen picture"
+  },
+  {
+    "id": 315819004,
+    "name": "Instagram-landingPage-project-DIO",
+    "owner": {
+      "login": "mrcs22",
+      "avatar_url": "https://avatars.githubusercontent.com/u/75001586?v=4"
+    },
+    "stargazers_count": 0,
+    "language": "CSS",
+    "html_url": "https://github.com/mrcs22/Instagram-landingPage-project-DIO",
+    "description": "Primeiro projeto guiado referente ao bootcamp Javascipt Game Developer oferecido na Digital Innovation One. "
+  },
+  {
+    "id": 363262013,
+    "name": "instagram-layout-react",
+    "owner": {
+      "login": "mrcs22",
+      "avatar_url": "https://avatars.githubusercontent.com/u/75001586?v=4"
+    },
+    "stargazers_count": 0,
+    "language": "JavaScript",
+    "html_url": "https://github.com/mrcs22/instagram-layout-react",
+    "description": null
+  },
+  {
+    "id": 317720182,
+    "name": "Jogo-da-velha-com-html-e-javascript",
+    "owner": {
+      "login": "mrcs22",
+      "avatar_url": "https://avatars.githubusercontent.com/u/75001586?v=4"
+    },
+    "stargazers_count": 0,
+    "language": "JavaScript",
+    "html_url": "https://github.com/mrcs22/Jogo-da-velha-com-html-e-javascript",
+    "description": "Sétimo projeto guiado referente ao bootcamp Javascipt Game Developer oferecido na Digital Innovation One. "
+  },
+  {
+    "id": 317280569,
+    "name": "Jogo-de-memoria-estilo-Genius",
+    "owner": {
+      "login": "mrcs22",
+      "avatar_url": "https://avatars.githubusercontent.com/u/75001586?v=4"
+    },
+    "stargazers_count": 0,
+    "language": "JavaScript",
+    "html_url": "https://github.com/mrcs22/Jogo-de-memoria-estilo-Genius",
+    "description": "Quarto projeto guiado referente ao bootcamp Javascipt Game Developer oferecido na Digital Innovation One. "
+  },
+  {
+    "id": 318649792,
+    "name": "Jogo-no-estilo-space-shooter",
+    "owner": {
+      "login": "mrcs22",
+      "avatar_url": "https://avatars.githubusercontent.com/u/75001586?v=4"
+    },
+    "stargazers_count": 0,
+    "language": "JavaScript",
+    "html_url": "https://github.com/mrcs22/Jogo-no-estilo-space-shooter",
+    "description": "Oitavo projeto guiado referente ao bootcamp Javascipt Game Developer oferecido na Digital Innovation One. "
+  },
+  {
+    "id": 395365364,
+    "name": "linkr",
+    "owner": {
+      "login": "mrcs22",
+      "avatar_url": "https://avatars.githubusercontent.com/u/75001586?v=4"
+    },
+    "stargazers_count": 0,
+    "language": "JavaScript",
+    "html_url": "https://github.com/mrcs22/linkr",
+    "description": null
+  },
+  {
+    "id": 357695259,
+    "name": "movieFinder",
+    "owner": {
+      "login": "mrcs22",
+      "avatar_url": "https://avatars.githubusercontent.com/u/75001586?v=4"
+    },
+    "stargazers_count": 0,
+    "language": "CSS",
+    "html_url": "https://github.com/mrcs22/movieFinder",
+    "description": null
+  },
+  {
+    "id": 355262899,
+    "name": "mrcs22",
+    "owner": {
+      "login": "mrcs22",
+      "avatar_url": "https://avatars.githubusercontent.com/u/75001586?v=4"
+    },
+    "stargazers_count": 0,
+    "language": null,
+    "html_url": "https://github.com/mrcs22/mrcs22",
+    "description": null
+  },
+  {
+    "id": 465477079,
+    "name": "my-python-garage-lab-",
+    "owner": {
+      "login": "mrcs22",
+      "avatar_url": "https://avatars.githubusercontent.com/u/75001586?v=4"
+    },
+    "stargazers_count": 1,
+    "language": "Python",
+    "html_url": "https://github.com/mrcs22/my-python-garage-lab-",
+    "description": "This is a place where I'll keep some proofs of concept as I get started in the Python universe"
+  },
+  {
+    "id": 380363678,
+    "name": "my-wallet-backend",
+    "owner": {
+      "login": "mrcs22",
+      "avatar_url": "https://avatars.githubusercontent.com/u/75001586?v=4"
+    },
+    "stargazers_count": 0,
+    "language": "JavaScript",
+    "html_url": "https://github.com/mrcs22/my-wallet-backend",
+    "description": null
+  },
+  {
+    "id": 380361624,
+    "name": "my-wallet-frontend",
+    "owner": {
+      "login": "mrcs22",
+      "avatar_url": "https://avatars.githubusercontent.com/u/75001586?v=4"
+    },
+    "stargazers_count": 0,
+    "language": "JavaScript",
+    "html_url": "https://github.com/mrcs22/my-wallet-frontend",
+    "description": "My Wallet is a financial manager to help you to track your expenses and incomes"
+  },
+  {
+    "id": 502833084,
+    "name": "my-wallet-mobile",
+    "owner": {
+      "login": "mrcs22",
+      "avatar_url": "https://avatars.githubusercontent.com/u/75001586?v=4"
+    },
+    "stargazers_count": 0,
+    "language": "Kotlin",
+    "html_url": "https://github.com/mrcs22/my-wallet-mobile",
+    "description": "My Wallet is a financial manager app to help you to track your expenses and incomes"
+  },
+  {
+    "id": 316378154,
+    "name": "Netflix-interface-clone",
+    "owner": {
+      "login": "mrcs22",
+      "avatar_url": "https://avatars.githubusercontent.com/u/75001586?v=4"
+    },
+    "stargazers_count": 0,
+    "language": "HTML",
+    "html_url": "https://github.com/mrcs22/Netflix-interface-clone",
+    "description": "Segundo projeto guiado referente ao bootcamp Javascipt Game Developer oferecido na Digital Innovation One. "
+  },
+  {
+    "id": 393159746,
+    "name": "pokedex",
+    "owner": {
+      "login": "mrcs22",
+      "avatar_url": "https://avatars.githubusercontent.com/u/75001586?v=4"
+    },
+    "stargazers_count": 0,
+    "language": null,
+    "html_url": "https://github.com/mrcs22/pokedex",
+    "description": null
+  }
+]
+}
