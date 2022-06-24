@@ -2,6 +2,8 @@ package mrcs.app.githubrepos.data.di
 
 import android.util.Log
 import com.google.gson.GsonBuilder
+import mrcs.app.githubrepos.data.repositories.RepoRepository
+import mrcs.app.githubrepos.data.repositories.RepoRepositoryImpl
 import mrcs.app.githubrepos.data.services.GitHubService
 import okhttp3.OkHttpClient
 import okhttp3.logging.HttpLoggingInterceptor
@@ -17,7 +19,7 @@ object DataModule {
     private const val OK_HTTP = "OkHttp"
 
     fun load(){
-        loadKoinModules(networkModules())
+        loadKoinModules(networkModules() +  repositoriesModule())
     }
 
     private fun networkModules(): Module {
@@ -41,6 +43,12 @@ object DataModule {
             single {
                 createService<GitHubService>(get(), get())
             }
+        }
+    }
+
+    private fun repositoriesModule(): Module{
+        return module {
+            single<RepoRepository>{RepoRepositoryImpl(get())}
         }
     }
 
