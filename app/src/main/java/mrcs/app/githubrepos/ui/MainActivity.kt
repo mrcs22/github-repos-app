@@ -2,7 +2,6 @@ package mrcs.app.githubrepos.ui
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import android.util.Log
 import android.view.Menu
 import androidx.appcompat.widget.SearchView
 import mrcs.app.githubrepos.R
